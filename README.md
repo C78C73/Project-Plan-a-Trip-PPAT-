@@ -1,2 +1,2 @@
 # Project-Plan-a-Trip-PPAT-
-Software Engineering 4320
+This is our project in Software Engineering 4320.
